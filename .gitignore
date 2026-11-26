@@ -1,0 +1,7 @@
+.godot/
+build/*
+!build/.gdignore
+screenshots/
+*.rgb
+.DS_Store
+.claude/settings.local.json
